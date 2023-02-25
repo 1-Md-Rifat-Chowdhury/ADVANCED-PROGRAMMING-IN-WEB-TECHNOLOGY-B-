@@ -1,2 +1,3 @@
 # ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY-B-virtual-assistant
-Using JAVASCRIPT
+By using typescript create a virtual medical assistant
+
